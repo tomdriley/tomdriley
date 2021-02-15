@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey, I'm Tom! 👋
 
 <!--
 **thrile/thrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning web stuff since I am primarily a hardware guy by training
+- 💬 Ask me about anything related to computers, I love them ♥
+- 😄 Pronouns: he/him
