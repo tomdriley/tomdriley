@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning web stuff since I am primarily a hardware guy by training
+- 🌱 I’m currently learning web stuff to mix things up since I am primarily a hardware guy by training
 - 💬 Ask me about anything related to computers, I love them ♥
 - 😄 Pronouns: he/him
